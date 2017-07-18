@@ -7,6 +7,7 @@ namespace PatternCommand
     {
         public static void Main(string[] args)
         {
+            
         }
     }
 }
