@@ -11,6 +11,7 @@
     public enum USER_INPUT
     {
         RELESE_DOWN,
-        PRESS_DOWN
+        PRESS_DOWN,
+        PRESS_B
     }
 }

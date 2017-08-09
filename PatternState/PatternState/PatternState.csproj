@@ -45,6 +45,8 @@
     <Compile Include="Heroine.cs" />
     <Compile Include="HeroineState.cs" />
     <Compile Include="Input.cs" />
+    <Compile Include="LyingState.cs" />
+    <Compile Include="OnGroundState.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StandingState.cs" />
